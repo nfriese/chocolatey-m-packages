@@ -1,2 +1,2 @@
 # chocolatey-m-packages
-Created manually chocolatey package
+Created manually chocolatey packages
